@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:15.10
 ENV REPOSITORY https://github.com/chuckbutler/dasroot-blog.git
 ENV AWS_ACCESS_KEY_ID XXX
 ENV AWS_SECRET_KEY YYY
